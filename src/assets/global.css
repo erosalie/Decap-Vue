@@ -1,0 +1,12 @@
+/* src/assets/global.css */
+:root {
+  --brand-color: #551638; /* Your primary brand color */
+  --accent-color: #7C95FF; /* Your accent color */
+  --text-color: #FFFFFF;
+  --background-color: #F0F0F0;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
