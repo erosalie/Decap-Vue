@@ -1,9 +1,9 @@
 {
-  "name": "vuepress-decapcms-netlify",
+  "name": "infoepi-lab",
   "version": "1.0.0",
-  "description": "Vuepress boilerplate integrated with Decap CMS hosted on Netlify",
+  "description": "The Information Epidemiology Lab (InfoEpi Lab) intersects public health, national security, information disorder, and countering malign influence.",
   "main": "index.js",
-  "author": "(Stanley Ndagi <stan@md.engineer>)",
+  "author": "(InfoEpi Lab <office@infoepi.org>)",
   "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
